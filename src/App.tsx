@@ -80,7 +80,7 @@ export default function App() {
             <div className="relative mt-8 md:mt-0">
               {/* Espaço para Mockup do Hero */}
               <div className="w-full aspect-[4/3] md:h-[500px] bg-slate-800/50 rounded-3xl border border-slate-700 flex flex-col items-center justify-center relative overflow-hidden shadow-2xl backdrop-blur-sm">
-                <img src="https://i.postimg.cc/DZPTDv8x/Mock-Up-05-Multi-Photoroom-tiny01.png" alt="Mockup Produto Principal" className="w-full h-full object-contain relative z-10" />
+                <img src="https://i.postimg.cc/DZPTDv8x/Mock-Up-05-Multi-Photoroom-tiny01.png" className="w-full h-full object-contain relative z-10" />
                 <span className="text-slate-500 text-sm absolute z-0 text-center px-4 font-mono italic">
                   [ Local reservado para a Imagem do Mockup ]<br/><br/>Insira a URL na tag img
                 </span>
@@ -342,7 +342,7 @@ export default function App() {
               <div className="absolute -top-4 right-8 bg-amber-500 text-slate-900 text-xs font-bold px-3 py-1 rounded-full">BÔNUS 01</div>
               {/* Espaço para Mockup do Bônus 1 */}
               <div className="w-full h-48 bg-slate-700/50 rounded-xl mb-6 flex items-center justify-center border border-slate-600 overflow-hidden">
-                <img src="https://i.postimg.cc/ZKMhXD54/Mkup-Checklist.png" alt="Mockup Bônus 1" className="w-full h-full object-contain" />
+                <img src="https://i.postimg.cc/ZKMhXD54/Mkup-Checklist.png" className="w-full h-full object-contain" />
                 <span className="text-slate-500 text-sm absolute">Local para Mockup Bônus 1</span>
               </div>
               <h3 className="text-xl font-bold mb-4 text-amber-400">Checklist Completo de Preparação</h3>
@@ -359,7 +359,7 @@ export default function App() {
               <div className="absolute -top-4 right-8 bg-amber-500 text-slate-900 text-xs font-bold px-3 py-1 rounded-full">BÔNUS 02</div>
               {/* Espaço para Mockup do Bônus 2 */}
               <div className="w-full h-48 bg-slate-700/50 rounded-xl mb-6 flex items-center justify-center border border-slate-600 overflow-hidden">
-                <img src="https://i.postimg.cc/bvQcDy05/Mkup-Direitos-e-Deveres.png" alt="Mockup Bônus 2" className="w-full h-full object-contain" />
+                <img src="https://i.postimg.cc/bvQcDy05/Mkup-Direitos-e-Deveres.png" className="w-full h-full object-contain" />
                 <span className="text-slate-500 text-sm absolute">Local para Mockup Bônus 2</span>
               </div>
               <h3 className="text-xl font-bold mb-4 text-amber-400">Direitos e Deveres dos Pais</h3>
@@ -376,7 +376,7 @@ export default function App() {
               <div className="absolute -top-4 right-8 bg-amber-500 text-slate-900 text-xs font-bold px-3 py-1 rounded-full">BÔNUS 03</div>
               {/* Espaço para Mockup do Bônus 3 */}
               <div className="w-full h-48 bg-slate-700/50 rounded-xl mb-6 flex items-center justify-center border border-slate-600 overflow-hidden">
-                <img src="https://i.postimg.cc/rmM65BQg/Mkup-Perguntas.png" alt="Mockup Bônus 3" className="w-full h-full object-contain" />
+                <img src="https://i.postimg.cc/rmM65BQg/Mkup-Perguntas.png" className="w-full h-full object-contain" />
                 <span className="text-slate-500 text-sm absolute">Local para Mockup Bônus 3</span>
               </div>
               <h3 className="text-xl font-bold mb-4 text-amber-400">Perguntas que o Juiz PODE fazer</h3>
@@ -411,7 +411,7 @@ export default function App() {
               <div className="p-8 flex flex-col flex-grow">
                 {/* Espaço para Mockup da Oferta Básica */}
                 <div className="w-full h-56 bg-slate-100 rounded-xl mb-6 flex items-center justify-center border border-slate-200 overflow-hidden relative">
-                  <img src="https://i.postimg.cc/DZPTDv8x/Mock-Up-05-Multi-Photoroom-tiny01.png" alt="Mockup Produto Principal" className="w-full h-full object-contain" />
+                  <img src="https://i.postimg.cc/DZPTDv8x/Mock-Up-05-Multi-Photoroom-tiny01.png" className="w-full h-full object-contain" />
                   <span className="text-slate-400 text-sm absolute">Local para Mockup Produto</span>
                 </div>
                 
